@@ -1,0 +1,15 @@
+{
+    "name": "user/phpmail2",
+    "autoload": {
+        "psr-4": {
+            "User\\Phpmail2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fathah",
+            "email": "zain@gmail.com"
+        }
+    ],
+    "require": {}
+}
